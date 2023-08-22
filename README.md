@@ -1,16 +1,13 @@
-### Hi there 👋
+## ⭐ About Me
+Hi, I'm Aaron. I'm a data scientist with skills in predictive modeling and data preprocessing.
 
-<!--
-**squireaa/squireaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗂️ Projects
 
-Here are some ideas to get you started:
+### 🛠️ Tools
+Languages: Python/ipynb, C++, Java, SQL
+Modeling libraries: TensorFlow Keras, PyTorch
+Visualization libraries: Matplotlib, Seaborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Find Me
+LinkedIn: https://www.linkedin.com/in/squireaa/
+Email: squireaa1@gmail.com
