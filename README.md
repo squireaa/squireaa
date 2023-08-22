@@ -8,9 +8,9 @@ Hi, I'm Aaron. I'm a data scientist with skills in predictive modeling and data 
 - [Car Appraisal Predictor](https://github.com/squireaa/CarMaxAppraisalPredictor)
 
 ### 🛠️ Tools
-Languages: Python/ipynb, C++, Java, SQL
-Modeling libraries: TensorFlow Keras, PyTorch
-Visualization libraries: Matplotlib, Seaborn
+- Languages: Python/ipynb, C++, Java, SQL
+- Modeling libraries: TensorFlow Keras, PyTorch, SciKit-Learn
+- Visualization libraries: Matplotlib, Seaborn
 
 ### 🤝 Find Me
 LinkedIn: https://www.linkedin.com/in/squireaa/
