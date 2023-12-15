@@ -5,7 +5,7 @@ Hello, my name is Aaron. I'm an aspiring data scientist and a current computer s
 
 ### 🗂️ Projects
 - [NHL Bet Predictor](https://github.com/squireaa/nn-nhl)
-- [Car Appraisal Predictor](https://github.com/squireaa/CarMaxAppraisalPredictor)
+- [Car Appraisal Predictor](https://github.com/squireaa/CartificialIntellegence)
 - [MIPS CPU Simulator](https://github.com/squireaa/LogisimCPU)
 - [Traffic Light Simulator](https://github.com/squireaa/TrafficSimulator)
 
