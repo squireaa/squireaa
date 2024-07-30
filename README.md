@@ -16,5 +16,4 @@ Hello, my name is Aaron. I'm an aspiring software developer and a current comput
 - Visualization libraries: Matplotlib, Seaborn
 
 ### 🤝 Find Me
-LinkedIn: https://www.linkedin.com/in/squireaa/
 Email: squireaa1@gmail.com
